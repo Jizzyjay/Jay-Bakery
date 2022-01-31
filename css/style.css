@@ -466,11 +466,11 @@ section {
     text-align: center;
 }
 
-.footer .share{
+.footer .socials {
     padding:1rem 0;
 }
 
-.footer .share a{
+.footer .socials a{
     height: 5rem;
     width: 5rem;
     line-height: 5rem;
@@ -481,7 +481,7 @@ section {
     border-radius: 50%;
 }
 
-.footer .share a:hover{
+.footer .socials a:hover{
     background-color: var(--main-color);
 }
 
@@ -514,17 +514,6 @@ section {
 .footer .credit span{
     color:var(--main-color);
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
